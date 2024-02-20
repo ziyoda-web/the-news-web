@@ -1,0 +1,75 @@
+.nav-links a{
+    font-style: 18px;
+    font-weight: 700;
+    color: black;
+}
+.nav-links a:hover{
+    color: rgba(239, 68, 35, 1);
+    font-size: 22px;
+    transition: 0.5s;
+}
+.card{
+    background: rgba(183, 28, 28, 1);
+    padding: 0;
+    max-width: 350px;
+    margin: 0;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+}
+.carda{
+    background: rgba(106, 27, 154, 1);
+    padding: 0;
+    max-width: 350px;
+    margin: 0;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+}
+.cardaa{
+    background: rgba(48, 63, 159, 1);
+    padding: 0;
+    max-width: 350px;
+    margin: 0;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+}
+.cards{
+    background: rgba(0, 105, 92, 1);
+    padding: 0;
+    max-width: 350px;
+    margin: 0;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+}
+.products-card h3{
+    font-size: 19px;
+    font-weight: 700;
+}
+.products-card p{
+    max-width: 350px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(235, 235, 235, 1);
+}
+.products .row img{
+    width: 345px;
+}
+.wrapp{
+    background: rgba(237, 237, 237, 1);
+    min-height: 400px;
+}
+.wrapp-text{
+    max-width: 540px;
+}
+.wrapp-text p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    color: rgba(104, 104, 104, 1);
+}
+footer{
+    background: rgba(58, 56, 56, 1);
+    color: white;
+}
+footer .nav-links a{
+    color: white;
+}
